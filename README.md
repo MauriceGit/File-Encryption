@@ -1,4 +1,4 @@
-# Secure file encryption
+# Secure File Encryption
 
 This is a simple commmand based encryption wrapper for local files.
 
